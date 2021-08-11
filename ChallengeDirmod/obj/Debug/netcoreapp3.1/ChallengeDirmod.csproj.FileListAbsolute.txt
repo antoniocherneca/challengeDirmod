@@ -1,0 +1,13 @@
+E:\ESCRITORIO\CHALLENGES\Dirmod\ChallengeDirmod\bin\Debug\netcoreapp3.1\ChallengeDirmod.exe
+E:\ESCRITORIO\CHALLENGES\Dirmod\ChallengeDirmod\bin\Debug\netcoreapp3.1\ChallengeDirmod.deps.json
+E:\ESCRITORIO\CHALLENGES\Dirmod\ChallengeDirmod\bin\Debug\netcoreapp3.1\ChallengeDirmod.runtimeconfig.json
+E:\ESCRITORIO\CHALLENGES\Dirmod\ChallengeDirmod\bin\Debug\netcoreapp3.1\ChallengeDirmod.runtimeconfig.dev.json
+E:\ESCRITORIO\CHALLENGES\Dirmod\ChallengeDirmod\bin\Debug\netcoreapp3.1\ChallengeDirmod.dll
+E:\ESCRITORIO\CHALLENGES\Dirmod\ChallengeDirmod\bin\Debug\netcoreapp3.1\ChallengeDirmod.pdb
+E:\ESCRITORIO\CHALLENGES\Dirmod\ChallengeDirmod\obj\Debug\netcoreapp3.1\ChallengeDirmod.csproj.AssemblyReference.cache
+E:\ESCRITORIO\CHALLENGES\Dirmod\ChallengeDirmod\obj\Debug\netcoreapp3.1\ChallengeDirmod.AssemblyInfoInputs.cache
+E:\ESCRITORIO\CHALLENGES\Dirmod\ChallengeDirmod\obj\Debug\netcoreapp3.1\ChallengeDirmod.AssemblyInfo.cs
+E:\ESCRITORIO\CHALLENGES\Dirmod\ChallengeDirmod\obj\Debug\netcoreapp3.1\ChallengeDirmod.csproj.CoreCompileInputs.cache
+E:\ESCRITORIO\CHALLENGES\Dirmod\ChallengeDirmod\obj\Debug\netcoreapp3.1\ChallengeDirmod.dll
+E:\ESCRITORIO\CHALLENGES\Dirmod\ChallengeDirmod\obj\Debug\netcoreapp3.1\ChallengeDirmod.pdb
+E:\ESCRITORIO\CHALLENGES\Dirmod\ChallengeDirmod\obj\Debug\netcoreapp3.1\ChallengeDirmod.genruntimeconfig.cache
